@@ -1,0 +1,32 @@
+---
+court: "West Virginia Court of Claims"
+docket: "C-9"
+decided: "1968-04-24"
+citations: ["7 Ct. Cl. 75"]
+reporter: "wv-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DELBERT THOMPSON, Administrator of the Estate of Creola Thompson, Deceased, v. STATE ROAD COMMISSION"]
+source_url: "https://static.case.law/wv-ct-cl/7/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8746908
+cites_cases: ["158 S. E. 2d 145"]
+---
+
+# Thompson v. State Road Commission
+
+## Majority (DUCKER, JUDGE:)
+
+DUCKER, JUDGE:
+Delbert Thompson, the duly qualified Administrator of the Estate of Creóla Thompson, deceased, filed this claim, asking $25,000 as damages against the State Road Commission of West Virginia on account of the death of said Creóla Thompson, who as a passenger in claimant’s car, was killed as a result of an automobile collision between the car owned by Delbert Thompson, husband of the said Creóla Thompson, and driven by Monty Dean Thompson, his son, and a car owned and driven by one Hassel Justice at or upon the Lick Creek Bridge on the Lick Creek Road in Boone County, West Virginia, on July 18, 1965.
+The claimant bases his claim upon allegations that the State Road Commission had allowed large weeds and brush to grow up along the road leading to the Lick Creek Bridge and had failed to erect signs indicating that the bridge was a one-way bridge and had failed to keep the bridge in a proper state of repair.
+The evidence in the case is substantially to the following effect.
+Monty Dean Thompson, who was 17 years old at the time of the accident, had driven the family car with his mother, Creóla Thompson, and his sister from Dayton, Ohio, to their home on Lick Creek, and had approached and driven upon the bridge, which was some two miles from Danville, West Virginia, and that the front wheels of his car were about to pass off the far end of the bridge after passing over it when he collided with a car owned and operated by Hassel Justice, resulting in the injuries to and death of the said Creóla Thompson.
+The Thompson car was traveling, it is claimed at approximately 10 miles an hour at the time of the collision and the Justice car was traveling between 25 and 35 miles an hour immediately before or at the time of the collision. A member of the State Police testified that there was about a 200 foot straight stretch of road before entering to the left a turn approaching the bridge and after such turn there was a distance of 30 to 40 feet before reaching the bridge. The road on the other side of the bridge, from which Thompson was approaching the bridge, had a visibility of approximately 80 to 90 yards to the bridge on that side. The width of the bridge was 12 feet, 9 inches, and the width of each car was 6 feet, 3 inches; so for anyone traveling in either direction it was practically a one-way bridge, although two cars could, with only a three inch margin, pass each other. The exact condition of the weather on that day is not wholly certain, except that it was not raining, but that it had rained and the road was slick.
+The claimant, his son and Hassel Justice had all lived in that vicinity many years and were accustomed to travel almost daily the road and bridge in question, and they knew its turns and condition, particularly the fact that they all considered the bridge a one-way bridge. While they testified that there were high weeds and brush on either side of the road, they were not prevented from seeing forward on the road or from seeing within reasonable distances each other’s car approaching. As neither driver of the cars saw the other until it was too late to avoid the collision, it necessarily follows that at least one of them was not exercising due care in his driving, most probably Hassel Justice who admitted he was going between 30 and 35 miles an hour in his approach to the bridge.
+Without passing upon the question as to who had the right of way, it would seem to us that inasmuch as the Thompson car was already on the bridge and about to go off of it and that Hassel Justice, knowing the narrowness of the bridge, was traveling at a speed of at least 25 to 30 miles an hour in his approach to the bridge, he should have slowed down and given right of way to the Thompson car. Pictures of the bridge and approaches introduced in the evidence clearly show that neither the bridge nor the road were out of repair and the collision would not have taken place had the parties to the collision exercised reasonable and proper care under the circumstances.
+The record shows that a suit was instituted by Hassel Justice against the claimant and the claimant filed a counter-claim against Justice in that case, and when the case came on for trial they took releases from each other, and that they did not prosecute their claims for the reason that claimant said he knew he could not realize anything from Justice because of the latter’s financial condition and because Justice had no liability insurance.
+The question resolves itself into whether the State Road Commission had been sufficiently negligent to be held morally responsible for the damages occasioned by this collision, and as we have indicated, the claimant’s claim is based partly upon its failure to have road markers indicating a one-way bridge. The lack of such signs does not constitute negligence, as was stated in the opinion in the case of the state ex rel. Vincent v. Gainer, (W.Va.), decided December 12, 1967, 158 S. E. 2d 145. Nor do we think that the growth of weeds and brush along the side of a road, not in the passageway of a road, constitutes negligence, or such negligence on the part of the Road Commission as rendered it responsible for collisions on the road.
+As all the parties well knew this well-traveled road and bridge, either the claimant or Justice or both must be considered guilty of the negligence causing the collision or both were guilty of contributory negligence, and as we see no negligence on the part of the Road Commission, we cannot consider that there is any moral obligation on the part of the State to pay damages for the negligent acts of others.
+As the case is without proof that the negligence alleged against the State Road Commission was the primary cause and proximate cause of the collision, we disallow this claim and make no award to the claimant herein.
+Claim Disallowed.
