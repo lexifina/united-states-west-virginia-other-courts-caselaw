@@ -1,0 +1,30 @@
+---
+court: "West Virginia Court of Claims"
+docket: "D-444"
+decided: "1972-02-07"
+citations: ["9 Ct. Cl. 54"]
+reporter: "wv-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLYDE W. REINHART vs. DEPARTMENT OF HIGHWAYS"]
+source_url: "https://static.case.law/wv-ct-cl/9/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8746182
+---
+
+# Reinhart v. Department of Highways
+
+## Majority (JONES, JUDGE:)
+
+JONES, JUDGE:
+By agreement dated March 10, 1969, made pursuant to an option dated November 20, 1968, the claimant, Clyde W. Reinhart, conveyed to the respondent, Department of Highways, then known as State Road Commission, a temporary construction easement for road construction purposes over and upon a strip or parcel of land owned by the claimant and being a portion of a service station lot situate in the Town of Gauley Bridge. The following extracts are pertinent parts of the agreement:
+“Said strip or parcel of land herein conveyed is shown as belonging to the parties of the first part upon map or blueprint marked, identified and described as plans of State Road Commission Project 3358-A, Parcel No. 1, as is referenced on plans on file in the office of the Clerk of the County Court of Fayette County, West Virginia.”
+******
+“And for the consideration hereinabove set forth the said parties of the first part do hereby release the party of the second part from any and all claims for damages that may be occasioned to the residue of the lands of the parties of the first part by reason of the construction, of a state road over, upon and under the tract or parcel of land herein conveyed.”
+The sum of $8,000.00 was paid to the claimant by the respondent as the consideration for said easement. At that time the subject property had been used for filling station purposes for more than twenty-one years and was then under lease to Humble Oil and Refining Company. The existing lease was for five years ending April 30, 1971, but to continue in effect for an additional period of five years unless notice to terminate was given by either party. The rental provided for was a minimum of $200.00 per month, with additional payments based on gallonage but in no event more than $300.00 per month.
+The claimant and the right of way agent for the respondent both testified that it was clearly understood between them that the road in front of the service station would be lowered approximately two and one-half feet, that the construction work would take approximately six months to complete, and that upon completion the service station and approaches thereto would be “as good or better than before”. Apparently the claimant paid little attention to the map or blueprint mentioned in the agreement and the Court is inclined to the opinion that the map or blueprint which was filed as a joint exhibit in this proceeding would be a complete mystery to any layman. It is further interesting to note that the map or blueprint is mentioned only in the easement agreement as showing and describing the property involved, and the agreement makes no further reference to the map or plans or construction in accordance therewith. It appears that the original plans called for a slope back to the pump island, and when the claimant discovered this fact during the course of the construction he requested a change in the plans which would leave a flat surface eight feet wide in front of the pumps, as otherwise vehicles could only be serviced on the inside of the pumps thereby severely lessening the capacity of the station. The respondent agreed to the change in plans, still with the understanding that the service station would be “as good or better than before”. However, when the construction was completed, the approaches to the station were so steep that ordinary motor vehicles could not safely enter or leave the station and for practical purposes the property was unfit for use as a service station. Under the terms of its lease, the claimant’s lessee, Humble Oil and Refining Company, declared the property to be unfit for use and, having given the prescribed notice, terminated the lease on January 15, 1970.
+The claimant looked about for other uses for the property but concluded that his best and most profitable course was to restore his property for use as a service station by lowering its level to accommodate the level of the new road. Having reached that decision he exercised rights arising from the termination of his lease, demanding that Humble Oil and Refining Company remove their three gasoline tanks, and that company paid him $4,000.00 for damages caused to the property by such removal.
+The total cost of restoring the service station property to a condition as good and usable as it was before the road construction was proved by the claimant to be $11,981.99. In addition, the claimant has proved loss of rent in the amount of $2,800.00, and during the construction period beginning April 9, 1969, and ending October 3, 1969, the claimant lost the difference between the minimum rent of $200.00 per month and the maximum of $300.00 or a total of $600.00. This constitutes a total outlay and loss to the claimant in the amount of $15,381.99. The claimant claims damages in the amount of $11,981.99 for restoring the property and $2,800.00 for loss of rentals, a total of $14,781.99.
+At this point, the claimant has a service station in at least as good condition as before the construction, and a new and apparently satisfactory lease with Texaco. The evidence is clear that the plaintiff received $8,000.00 from the respondent and $4,000.00 damages from Humble Oil and Refining Company, a total of $12,000.00, leaving him out-of-pocket the sum of $3,381.99.
+We are of opinion that the claimant is entitled to his out-of-pocket loss but no more. Therefore, an award is hereby made to the claimant, Clyde W. Reinhart, in the amount of $3,381.99.
+Award of $3,381.99.
