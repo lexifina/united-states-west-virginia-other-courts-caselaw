@@ -1,0 +1,33 @@
+---
+court: "West Virginia Court of Claims"
+docket: "B-344"
+decided: "1968-01-17"
+citations: ["7 Ct. Cl. 56"]
+reporter: "wv-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARILYN STOLLINGS v. STATE ROAD COMMISSION STATE OF WEST VIRGINIA"]
+source_url: "https://static.case.law/wv-ct-cl/7/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8746688
+---
+
+# Stollings v. State Road Commission
+
+## Majority (Ducker, Judge:)
+
+Ducker, Judge:
+Claimant, Marilyn Stollings, alleged that she has been damaged in the sum of $10,000.00 on account of injuries, disfigurement and disabilities she suffered as a result of an automobile accident while she was operating a motor vehicle on State Route No. 10-w, near Mitchell Heights in Logan County, West Virginia, on June 6,1964, the claim having been filed with and heard by and remained pending before the Attorney General until jurisdiction was assumed by this Court.
+The basis of the claim is primarily that the road was not safe for travel as it had become slick by reason of tar “bleeding” out of the road surface causing the road to be hazardous, and that when driving upon that road her car swerved and slid, going round and round and finally over the hillside, injuring her legs, arms and back.
+The record shows that the particular part of the road where this accident occurred was a blacktopped road, extending for about a mile from North Mitchell Heights to Peck’s Mill Bridge, completed or resurfaced in April 1962 with tar and mixed sand and stone on top. Evidencé was introduced to show that a car had wrecked on this road a “couple of weeks” after the construction because the road got slick when it rained, and that signs had thereafter been put up stating that the road was “Slippery When Wet.” There was also testimony to the effect that several wrecks had occurred on this road, that the road would “bleed” tar on hot days, and that once or more the Road Commission had put “red dog,” meaning slate or burnt coal, on the road to rough it up.
+The evidence is undisputed that it had rained before or about the time of the accident and that the road was damp, like a frost on it, and wet. Daniel Carper, a disinterested witness, testified that he was going from Mill Creek to Logan on his right hand side of the road and at a fairly level or graded spot he saw claimant’s car coming from Logan and swerving on the highway in the other lane, that is Carper’s left hand lane, and that he would estimate that claimant’s car was traveling “anywhere from 40 to 50 miles an hour,” and that he, Carper, was going 25 to 30 miles an hour as his wife was expecting very shortly, although he thought 40 miles an hour would be safe.
+The witness Kermit Hale said that he traveled this road twice a day and that 40 to 50 miles an hour was an unsafe speed for anyone who knew the road “or anyone else whether they knew it or not, anyone who traveled it.” Alfred White, Jr. testified that it was apparent that this road was “slick when it was wet, frosted or snowed upon.” One witness stated that the accident occurred at the bottom end of the hill as claimant’s car started going up the hill, but claimant, who was pregnant when the accident occurred, said she came “to Henlawson before she ran into rain and came on down the road and went up the bank and just when I topped the bank my car started sliding, it started sliding, it went around with me and — completely around, and went over the mountain, over the bank,” and that she was going 35 miles an hour and that she “drove that rate every day, it don’t matter if its hot or any time,” and further it was drizzling rain at the time of the accident.
+Claimant testified that she was hospitalized in Logan for six or seven weeks and suffered greatly from her injuries and incurred considerable expense, the amount of which is not fully or clearly shown, as well as permanent disfigurement of her legs and arms.
+A recital of other testimony and evidence we deem unnecessary, as the principal and only question presented to this Court is whether the claimant has made out a case of negligence on the part of State Road Commission in the maintenance of the State Road on which this accident occurred.
+There are several factors involved in the determination of the question involved, namely, the type of road, the road main-ténance, the weather at the time of the accident and its effect both upon the condition of the road and the speed at which the car was driven.
+The road was definitely classified as a blacktopped highway. Tar and mixed sand and stone were used to resurface it in 1962, and on one or more occasions slate or burnt coal was used to roughen it. Claimant by unsatisfactory evidence tried to prove that several accidents had previously occurred on it. Signs of “Slippery When Wet” were posted. Whether the road was “bleeding” tar at the time of the accident does not positively appear. Nor does other evidence of either extra maintenance or any special lack of maintenance appear.
+The weather was a drizzling rain and the road was slick, and claimant, who drove it frequently, knew it was slick when it was wet.
+The testimony of claimant and one of her witnesses was that claimant was driving at a speed of 35 miles an hour and the speed limit was 55 miles an hour. As has been shown, Daniel Carper, the witness who saw the accident, said claimant was driving 40 to 50 miles an hour. Another witness testified that 40 to 50 miles an hour on that road was unsafe whether the driver knew the road or not. In determining whether a driver of an automobile has driven safely, the lawful speed limit may or may not be a factor in such determination. Weather is just as important and cannot be dismissed without serious consideration.
+The evidence, we think, does not sufficiently show lack of proper maintenance for that type of road and the fact that other cars have wrecked may be corroborative in a limited way of specific fact showing negligence or lack of maintenance. There are too many other probable causes for wrecks. We cannot avoid believing that the speed at which the claimant was driving on a wet, slick road which she well knew, which speed was testified to by a wholly disinterested witness to be 40 to 50 miles an hour and unsafe, was the proximate cause of this accident, unfortunate as it was for all concerned.
+It is the conclusion of this Court that the claimant has not proven sufficient facts to maintain her claim, and it is the opinion of the Court that her claim should be, and it is hereby, disallowed.
+Claim Disallowed.
