@@ -1,0 +1,23 @@
+---
+court: "West Virginia Court of Claims"
+docket: "205"
+decided: "1943-02-09"
+citations: ["2 Ct. Cl. 96"]
+reporter: "wv-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EARL SWARTZWELDER, Claimant, v. STATE ROAD COMMISSION, Respondent."]
+source_url: "https://static.case.law/wv-ct-cl/2/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8748081
+---
+
+# Swartzwelder v. State Road Commission
+
+## Majority (WALTER M. ELSWICK, Judge.)
+
+WALTER M. ELSWICK, Judge.
+This claim is made against the state road commission for “4000 cubic yards of stone gotten from the Kingwood quarry at 5 cents per cubic yard and applied on purchase order of February 26, 1940 . . . $200.00.” The foregoing quotation is taken from claimant’s statement to the state road commission under date of December 12, 1940. This purchase order or agreement dated February 26, 1940, was signed by claimant and Burr Simpson, the then state road commissioner, and is filed and made a part of the record on this claim. It provided that the quantity was “not to exceed 8000 cubic yards” and that the agreement “shall be in force until January 1, 1941, or until the completion and acceptance by the state of project no. 39-m-cw-I.”
+From the evidence it appears that three agreements were executed by claimant and the road commission. The first one was dated December 5, 1938, for an amount of stone not to exceed 4000 cubic yards. Under this agreement the road commission took and paid claimant for 3920 cubic yards. The second agreement was dated July 24, 1939 for an amount of stone not to exceed 6000 cubic yards. Under this agreement the road commission took and paid claimant for 5000 cubic yards (record pp. 48, 51 and 55). Payment for all of this stone had been made by the following checks, to wit: (1) check dated July 17, 1939 for $196.00; (2) check dated September 12, 1939 for $150.00, and (3) check dated December 27, 1939 for $100.00.
+The third agreement upon which claimant bases his claim carries the date of February 26, 1940, in the caption thereof, and bears witness before the signatures thereon April 29, 1940. A check was drawn to claimant under date of April 26, 1940 for $50.00 in payment of 1000 cubic yards of stone. The endorsement shows that the same was paid May 3, 1940. Claimant says that after this check was paid and said last mentioned agreement was signed, Bert Gibson, the county road supervisor, advised him that the road commission had obtained stone from the quarry for which the commission would owe him something like $230.00. Mr. Gibson died in June 1940, soon after the purported conversation with claimant. No evidence of other witnesses was offered by claimant as proof that the rock was obtained by the commission, and it would appear that the road commission’s office did not have any record of the stone having been obtained. Claimant contends that some of the stone was obtained in the latter part of 1939 and the early part of 1940 “all during the winter months” (record pp. 6 and 7). This agreement refers to road project no. 39-m-cw-1, which would indicate that the stone was to be used on same. Claimant made no effort to keep a record of the stone taken from the quarry by the road commission or by others. No evidence is offered to show that the road commission obtained more stone for this or other projects than was paid for. The evidence shows payment of $73.85 to claimant on November 22, 1940 and $89.45 on July 10, 1941, under the purchase agreement.
+We are of the opinion that the evidence does not justify making an award to claimant, and that the only evidence offered in support of the validity of the claim was the testimony of claimant that the county road supervisor had told him that the road commission owed him the money claimed. The county road supervisor is dead and such testimony would not be sufficient to justify an award. There is not any record or memorandum to support claimant’s contention. On the contrary a check for $50.00 was cashed for claimant on May 3, 1940, which was dated April 26, 1940, and no doubt delivered when the last purchase contract was executed by claimant. The presumption is that this check was in payment of the stone obtained prior to the time that this agreement was executed. Certainly if other stone had been obtained during that period which was not included in this check the claimant had all the month of May after the contract was signed and before the supervisor’s death to have secured a memorandum or statement from the supervisor to the contrary. For the foregoing reasons an award is denied.
