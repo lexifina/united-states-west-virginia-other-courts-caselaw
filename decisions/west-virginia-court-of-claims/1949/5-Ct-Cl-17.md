@@ -1,0 +1,21 @@
+---
+court: "West Virginia Court of Claims"
+docket: "651-S"
+decided: "1949-01-25"
+citations: ["5 Ct. Cl. 17"]
+reporter: "wv-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLESTON ELECTRICAL SUPPLY COMPANY, Claimant, v. STATE BOARD OF EDUCATION, and/or WEST VIRGINIA INSTITUTE OF TECHNOLOGY, Respondents."]
+source_url: "https://static.case.law/wv-ct-cl/5/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8746346
+---
+
+# Charleston Electrical Supply Co. v. State Board of Education
+
+## Majority (MERRIMAN S. SMITH, Judge.)
+
+MERRIMAN S. SMITH, Judge.
+On September 4, 1947, Carl Riggs, director of purchases, placed an order with the Charleston Electrical Supply Company, a West Virginia corporation, located at 914 Kanawha Boulevard, east, Charleston, West Virginia, for certain items of electrical equipment, at a total price of $2,146.71, to be shipped to the West Virginia institute of technology, a state institution, located at Montgomery, West Virginia. The said items of electrical equipment so ordered were not standard articles of equipment ordinarily carried in stock, but were items which required manufacture according to specifications as set forth in said purchase orders. Claimant immediately caused an order to be placed for manufacture and delivery of said items of electrical equipment with the Weston Electrical Instrument Corporation, through the Russell F. Clark Company, its sales representative, of Pittsburgh, Pennsylvania. On or about November 13, 1947, the said Carl Riggs, director of purchases, requested claimant to cancel six items, totaling $1,720.11. Upon receipt of said request for cancellation, claimant at once notified the Weston Electrical Instrument Corporation, through the said Russell F. Clark Company, its sales representative, that it desired to cancel six items of the original order aforementioned. At the date of cancellation the electrical equipment ordered by the state was in process of manufacture by the Weston Electrical Instrument Corporation, and some of the articles were completely finished while others were from fifty to ninety-eight percent complete. The manufacture of many of said items required the purchase of special material and many of the items so ordered were not of standard make and were not of such character that resale could be made, although an attempt was made to sell them to another college in an effort to mitigate the cancellation charges. On November 4, 1948, claimant received from the Weston Electrical Instrument Corporation a statement for the sum of $300.00 representing termination charges, which amount did not take into consideration any profit, but actual loss sustained by virtue of the cancellation of the contract which amount claimant paid under date of November 22, 1948, to the Weston Electrical Instrument Company. Both the state agency and the claimant entered into this contract in good faith. However, about sixty days later the state discovered that it could secure several of the items through the war surplus division oí the federal government, at a saving oí $408.00 to the state, so it cancelled the order as to the items obtainable at the reduced price. Due to the fact that the items in the original order were not standard but had to be manufactured according to specifications and by the time the cancellation was made, some of the items had been completed and a large percent of the remaining items were already processed, the Weston Electrical Equipment Corporation took an actual loss of $300.00 without taking any profit into consideration. and the state after reimbursing it in this amount would still realize a saving of $108.00.
+The confidence in and credit of the state should be maintained at all times and whenever it executes a contract in the regular and statutory manner it. should abide by its provisions and live up to it to the letter. The head of the agency concerned concurred in the payment of this claim and it was approved by the attorney general’s office. This court therefore makes an award in the sum of three hundred dollars ($300.00) in favor of the Charleston Electrical Supply Company, and recommends payment in the prescribed manner.
