@@ -1,0 +1,53 @@
+---
+court: "West Virginia Court of Claims"
+docket: "745"
+decided: "1952-01-18"
+citations: ["6 Ct. Cl. 81"]
+reporter: "wv-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JENNIE BELL COPLEY, ANNA MAYNARD, LOUISE COPLEY, and STANLEY COPLEY, Claimants, v. STATE ROAD COMMISSION, Respondent."]
+source_url: "https://static.case.law/wv-ct-cl/6/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8746800
+cites_cases: ["130 W. Va. 430"]
+---
+
+# Copley v. State Road Commission
+
+## Majority (A. D. KENAMOND, Judge.)
+
+A. D. KENAMOND, Judge.
+On June 30, 1950, claimants Jennie Bell Copley, Anna Maynard and Louise Copley were walking along a path alongside the hard surface of u. s. 52 enroute from their home in Big Branch to the village of Dunlow, Wayne county, when at a point about a half mile from Dunlow a truck driven by Richard Thompson of Rad-nor, skidded upon the highway of u. s. 52 and crashed into claimants, inflicting bodily injuries to three claimants, and damage to personal property of one of them.
+Stanley Copley, the fourth named claimant, is the father of Jennie Bell Copley, and Anna Maynard, and grandfather of Louise Copley.
+When the case was heard on January 16, 1952, neither Anna Maynard nor Louise Copley appeared before the court, and no claim for an award in behalf of either was then presented. According to the testimony both had suffered only minor injuries.
+Stanley Copley asked to be reimbursed for the following expenditures in behalf of Jennie Bell Copley, the minor daughter in the case:
+To replace broken eyeglasses.— $34.75
+To repair damaged watch ... 7.50
+To sew up cut under chin ... 3.00
+To trip to physician... 5.00
+Total -__ $50.25
+Testimony revealed that Jennie Bell Copley was struck down by Richard Thompson’s skidding truck, causing bruises and pains, the latter persisting to the present time. Members of the court noted that Jennie Bell Copley bore the marks of a long cut under her chin which she will doubtlessly carry as a permanent blemish. No definite claim for recompense was made but her counsel asked the court to make some award in her behalf to compensate for her suffering and the permanent disfigurement. Her father stated that she lost no wages due to the accident, though she was unable for some time thereafter to perform usual household duties in his home.
+Who or what was responsible for the skidding of Richard Thompson’s truck and the resulting damage to claimants?
+The accident occurred on a hairpin curve, the berm alongside the lane normally to be followed by Richard Thompson being somewhat higher than the 18 feet of hard surface. Early in the afternoon of the accident a state road commission crew under the foremanship of Hobart Marcum had shoveled calcium chloride onto the berm for the purpose of killing weeds. According to his testimony his supervisor, Kaye Booth, now deceased, had directed him to use up some calcium chloride which had been in storage for a long time and had lumped up as a result. Apparently the condition and quantity of this calcium chloride was such as to cause it on melting to overrun the lower hard surface, covering its entire width for a length of SO or more feet. According to foreman Marcum there were no signs to indicate the hazardous condition of the road at time of accident, which occurred about five-thirty o’clock in the afternoon. When questioned he revealed that he knew before and after the accident that the road was slippery by reason of melted calciuiji chloride. Men Working signs had been put up while the road crew applied the weed killer, but these signs were removed when the work of application was completed.
+The accident was investigated by Corporal Russell Hogg, of the department of public safety, who testified that on the day of the accident he saw the injured claimants at a doctor’s office, and upon their information he advised Richard Thompson, driver of the truck involved in the accident, to appear before a justice of the peace to answer charge of operating a motor vehicle on the wrong side of the road. Upon Thompson’s insistence that he was not at fault for the accident but had unavoidedly skidded at the curve, Corporal Hogg went to the scene of the accident to make investigation. The corporal testified that, as he entered the hairpin curve at a speed of 25 miles per hour, he came upon the melted calcium chloride without warning and his car skidded some distance. After viewing the scene of the accident and surrounding circumstances he advised the justice of the peace of the same, resulting in the dismissal of Richard Thompson as being without fault. Corporal Hogg further testified that the melted calcium chloride covered the highway at the point of accident for a distance of 30 feet, and that no person rounding the hairpin curve in question would have any notice or opportunity to observe the hazardous condition of the road, and thus be able to avoid the same, until he would actually be upon it. He further testified that the road was unsafe and he therefore notified assistant supervisor Atkins, whereupon the road was sanded.
+Forrest Damron, also engaged in hauling mine post as was Thompson, attempted to negotiate the curve with his truck just ahead of the latter, but skided off the hard surface about five feet. He was able to stop, desiring to ascertain whether he had struck any of the claimants.
+When Damron and Thompson had passed over this highway earlier in the day they had found it in good condition, and the appearance of the road at time of accident was not such as to indicate the hazard that it actually was.
+The state road commission offered no testimony, although C. N. Plymale, safety director for the district in which the accident occurred, was present at the hearing.
+This court is mindful of the fact that the state road commission was engaged in a governmental function when its employes put a weed killer, calcium chloride, on the berm above point of accident. But, in view of the testimony offered before the court as to the condition and quantity of calcium chloride applied and as to the manner of its application, we have serious doubts whether proper and ordinary care was used. The state road commission might well have anticipated that calcium chloride as applied in its lumpy state on a hot afternoon, according to the testimony, would melt and flow down over and upon the highway and result in a hazardous and dangerous condition for the traveling public. According to the testimony melted calcium chloride is as hazardous as ice on a highway, although to the driver of a motor vehicle it appears to be nothing more than moisture.
+Further testimony showed that after the application of the calcium chloride “Men Working” signs were then removed, no warning signs were put up, and no attention given to what became of the calcium chloride.
+If a private individual owning land alongside a highway were to use calcium chloride as a weed killer on his land and the same were to be applied as in the instant case and in melting overrun the adjacent highway, thereby causing damage and injury to any one lawfully using said highway, would he not.be liable for damages in any court in this state?
+Applying the test of moral obligation on the part of the state to reimburse a claimant who suffered injury to his property or person by the negligent act or acts of employees of the state, we call attention to the language of the Supreme Court of Appeals in the case of Price v. Sims, 58 SE (2d) (W. Va.) 657:
+“Moral obligation of state, declared by legislature to exist in favor of claimant for negligent injury to his property, will be sustained, and a legislative appropriation of public funds made for its payment will be upheld, when conduct of agents or employees of state which proximately caused such injury is such as would be judicially held to constitute negligence in an action for damages between private persons.”
+From this language can we not say that, since the private individual above mentioned would be liable for damages under the circumstances above set out, the state road commission would be liable under the similar circumstances which also prevail in this case?
+Applying the test in the case of State ex rel. Cashman v. Sims, 130 W. Va. 430, does the factual situation by the instant record constitute such wrongful conduct on the part of the road commission employe as would be recognized in a court of law involving private parties? We think it does.
+We therefore conclude that the employees of the state road commission, in applying calcium chloride on the berm above and alongside the hairpin curve at point of accident in this case were under duty to use ordinary and reasonable care in its application and mode of application so as to prevent its encroaching upon the highway thus making the same hazardous and dangerous to the traveling public. Further, we conclude from the testimony that neither the claimants in this case nor the driver of the skidding truck, involved in this accident, contributed in any way to the accident; that the same resulted solely from the negligent manner in which the employes exercised the governmental function herein set out.
+We therefore make an award of fifty dollars and twenty-five cents ($50.25) in favor of Stanley Copley, and an award of three hundred and fifty dollars ($350.00) in favor of Jennie Bell Copley.
+
+## Concurring in part and dissenting in part (ROBERT L. BLAND, Juixm,)
+
+ROBERT L. BLAND, Juixm,
+dissenting in part, concurring in part.
+I cannot subscribe to the rule announced in the above syllabus and dissent to so much of the opinion of the court as holds that a claim for damages to property or person injured by negligence of state agent or employe while engaged in discharge of governmental function justifies appropriation of public funds on the basis of valid moral obligation of state. However, I do concur in the conclusion reached and in the awards made. The case has a very strong appeal to this court. No precautionary measures were employed after the completion of the work to warn persons using the road of the danger occasioned by the use of the calcium chloride.
+I think that every case presented to the court of claims should be determined upon its own basis, and that the two claimants in whose favor awards are made have established by sufficient proof their rights thereto.
+I would not want to be understood as agreeing to a proposition that would deny the state to discharge its governmental functions or hold that the rights of a pedestrian on the highway are superior to the rights of the state.
