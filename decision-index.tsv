@@ -1,6 +1,4 @@
 reference	path
-(Claim No. B-280)	decisions/west-virginia-court-of-claims/1967/7-Ct-Cl-17.md
-(D-603	decisions/west-virginia-court-of-claims/1974/10-Ct-Cl-58.md
 1	decisions/west-virginia-court-of-claims/1941/1-Ct-Cl-2.md
 1 Ct. Cl. 1	decisions/west-virginia-court-of-claims/1941/1-Ct-Cl-1.md
 1 Ct. Cl. 102	decisions/west-virginia-court-of-claims/1942/1-Ct-Cl-102.md
@@ -4008,7 +4006,7 @@ reference	path
 25 Ct. Cl. 82	decisions/west-virginia-court-of-claims/2003/25-Ct-Cl-82.md
 25 Ct. Cl. 84	decisions/west-virginia-court-of-claims/2003/25-Ct-Cl-84.md
 25 Ct. Cl. 85	decisions/west-virginia-court-of-claims/2004/25-Ct-Cl-85.md
-25 Ct. Cl. 88	decisions/west-virginia-court-of-claims/2004/25-Ct-Cl-85.md
+25 Ct. Cl. 88	decisions/west-virginia-court-of-claims/2004/25-Ct-Cl-88.md
 25 Ct. Cl. 89	decisions/west-virginia-court-of-claims/2004/25-Ct-Cl-89.md
 25 Ct. Cl. 9	decisions/west-virginia-court-of-claims/2003/25-Ct-Cl-9.md
 25 Ct. Cl. 92	decisions/west-virginia-court-of-claims/2004/25-Ct-Cl-92.md
@@ -4081,7 +4079,7 @@ reference	path
 26 Ct. Cl. 181	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-181.md
 26 Ct. Cl. 182	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-182.md
 26 Ct. Cl. 184	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-184.md
-26 Ct. Cl. 186	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-184.md
+26 Ct. Cl. 186	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-186--cap-8246291.md
 26 Ct. Cl. 186	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-186.md
 26 Ct. Cl. 187	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-187.md
 26 Ct. Cl. 189	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-189.md
@@ -5041,6 +5039,7 @@ reference	path
 42-S	decisions/west-virginia-court-of-claims/1942/1-Ct-Cl-70--cap-8528170.md
 420-S	decisions/west-virginia-court-of-claims/1945/3-Ct-Cl-5.md
 421-S	decisions/west-virginia-court-of-claims/1945/3-Ct-Cl-7.md
+422-S	decisions/west-virginia-court-of-claims/1945/3-Ct-Cl-47.md
 423-S	decisions/west-virginia-court-of-claims/1945/3-Ct-Cl-48.md
 424-S	decisions/west-virginia-court-of-claims/1945/3-Ct-Cl-46.md
 425-S	decisions/west-virginia-court-of-claims/1945/3-Ct-Cl-9.md
@@ -6142,6 +6141,7 @@ CC-02-052	decisions/west-virginia-court-of-claims/2002/24-Ct-Cl-82.md
 CC-02-053	decisions/west-virginia-court-of-claims/2003/24-Ct-Cl-318.md
 CC-02-056	decisions/west-virginia-court-of-claims/2003/24-Ct-Cl-303.md
 CC-02-056	decisions/west-virginia-court-of-claims/2004/25-Ct-Cl-85.md
+CC-02-056	decisions/west-virginia-court-of-claims/2004/25-Ct-Cl-88.md
 CC-02-057	decisions/west-virginia-court-of-claims/2002/24-Ct-Cl-120.md
 CC-02-062	decisions/west-virginia-court-of-claims/2002/24-Ct-Cl-201.md
 CC-02-067	decisions/west-virginia-court-of-claims/2002/24-Ct-Cl-231.md
@@ -7452,8 +7452,6 @@ CC-79-215	decisions/west-virginia-court-of-claims/1979/13-Ct-Cl-60.md
 CC-79-216	decisions/west-virginia-court-of-claims/1980/13-Ct-Cl-289.md
 CC-79-22	decisions/west-virginia-court-of-claims/1979/12-Ct-Cl-347.md
 CC-79-220	decisions/west-virginia-court-of-claims/1980/13-Ct-Cl-235.md
-CC-79-221a; CC-79-230a; CC-79-417; CC-79-232a; CC-79-233a; CC-79-235; CC-79-237; CC-79-240; CC-79-246a; CC-79-248; CC-79-249; CC-79-329a; CC-79-250; CC-79-251	decisions/west-virginia-court-of-claims/1980/13-Ct-Cl-104.md
-CC-79-221b; CC-79-226b; CC-79-230b; CC-79-232b; CC-79-233b; CC-79-238; CC-79-239b; CC-79-241b; CC-79-244; CC-79-246b; CC-79-247; CC-79-256	decisions/west-virginia-court-of-claims/1980/13-Ct-Cl-110.md
 CC-79-225	decisions/west-virginia-court-of-claims/1979/13-Ct-Cl-44.md
 CC-79-227	decisions/west-virginia-court-of-claims/1979/13-Ct-Cl-49.md
 CC-79-229	decisions/west-virginia-court-of-claims/1979/13-Ct-Cl-67.md
@@ -7463,9 +7461,7 @@ CC-79-257	decisions/west-virginia-court-of-claims/1980/13-Ct-Cl-168.md
 CC-79-258	decisions/west-virginia-court-of-claims/1980/13-Ct-Cl-226.md
 CC-79-26	decisions/west-virginia-court-of-claims/1980/13-Ct-Cl-147.md
 CC-79-292	decisions/west-virginia-court-of-claims/1979/13-Ct-Cl-66.md
-CC-79-294; CC-79-295; CC-79-328; CC-79-349; CC-79-400; CC-79-432; CC-79-497; CC-79-506; CC-79-507; CC-79-521; CC-79-602; CC-79-603; CC-79-702	decisions/west-virginia-court-of-claims/1980/13-Ct-Cl-100.md
 CC-79-297	decisions/west-virginia-court-of-claims/1981/14-Ct-Cl-13--cap-8744967.md
-CC-79-2; No. CC-79-3; No. CC-79-4; No. CC-79-5; No. CC-79-6; No. CC-79-7; No. CC-79-8; No. CC-79-9; No. CC-79-10; No. CC-79-14; No. CC-79-18; No. CC-79-19; No. CC-79-28; No. CC-79-29	decisions/west-virginia-court-of-claims/1979/12-Ct-Cl-321.md
 CC-79-30	decisions/west-virginia-court-of-claims/1986/16-Ct-Cl-111.md
 CC-79-305	decisions/west-virginia-court-of-claims/1981/13-Ct-Cl-412.md
 CC-79-307	decisions/west-virginia-court-of-claims/1983/14-Ct-Cl-355.md
@@ -7750,7 +7746,6 @@ CC-80-396	decisions/west-virginia-court-of-claims/1981/14-Ct-Cl-23.md
 CC-80-397	decisions/west-virginia-court-of-claims/1981/14-Ct-Cl-58.md
 CC-80-398	decisions/west-virginia-court-of-claims/1981/13-Ct-Cl-350--cap-8753571.md
 CC-80-399	decisions/west-virginia-court-of-claims/1981/13-Ct-Cl-331--cap-8753136.md
-CC-80-401a; CC-80-401b; CC-80-401c; CC-80-401d; CC-80-401e; CC-80-401f; CC-80-401g; CC-80-401h	decisions/west-virginia-court-of-claims/1983/14-Ct-Cl-498.md
 CC-80-402	decisions/west-virginia-court-of-claims/1981/13-Ct-Cl-350.md
 CC-80-403	decisions/west-virginia-court-of-claims/1981/13-Ct-Cl-331.md
 CC-80-404	decisions/west-virginia-court-of-claims/1981/13-Ct-Cl-333--cap-8753192.md
@@ -8060,7 +8055,6 @@ CC-82-256	decisions/west-virginia-court-of-claims/1982/14-Ct-Cl-291.md
 CC-82-257	decisions/west-virginia-court-of-claims/1986/16-Ct-Cl-105.md
 CC-82-258	decisions/west-virginia-court-of-claims/1982/14-Ct-Cl-298--cap-8752540.md
 CC-82-259	decisions/west-virginia-court-of-claims/1982/14-Ct-Cl-261.md
-CC-82-260a-Administration; CC-82-260b-Anthony Center; CC-82-260c-Industrial School for Boys; CC-82-260d-Leckie Center; CC-82-260e-W.Va. Penitentiary; CC-82-329-Anthony Center; CC-82-330-Parole Services; CC-82-331-Industrial School for Boys; CC-82-334-W.Va. Prison for Women	decisions/west-virginia-court-of-claims/1983/14-Ct-Cl-387.md
 CC-82-261	decisions/west-virginia-court-of-claims/1983/14-Ct-Cl-391--cap-8754162.md
 CC-82-262	decisions/west-virginia-court-of-claims/1983/14-Ct-Cl-389.md
 CC-82-263a	decisions/west-virginia-court-of-claims/1983/14-Ct-Cl-390.md
@@ -8272,12 +8266,9 @@ CC-83-310	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-88.md
 CC-83-311	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-216.md
 CC-83-312	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-93--cap-8748280.md
 CC-83-314	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-94.md
-CC-83-320a - Glenville State College; CC-83-320b - Marshall University; CC-83-320c - Parkersburg Community College; CC-83-320d - West Liberty State College; CC-83-320e - W.Va. College of Graduate Studies; CC-83-320f - W.Va. Institute of Technology	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-80.md
 CC-83-321	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-81.md
 CC-83-322	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-81--cap-8747545.md
-CC-83-323a - Department of Corrections; CC-83-323b - Adult Female Offenders; CC-83-323c - Leckie Center; CC-83-323d - Industrial School for Boys; CC-83-323e - W.Va. Penitentiary	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-82.md
 CC-83-324	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-83.md
-CC-83-325a - Denmar State Hospital; CC-83-325b - Hopemont State Hospital; CC-83-325c - Lakin State Hospital; CC-83-325d - Pinecrest State Hospital; CC-83-325e - Weston State Hospital	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-83--cap-8747630.md
 CC-83-326	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-84.md
 CC-83-327	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-84--cap-8747687.md
 CC-83-328	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-85.md
@@ -8314,9 +8305,7 @@ CC-83-41	decisions/west-virginia-court-of-claims/1983/15-Ct-Cl-32--cap-8745760.m
 CC-83-43	decisions/west-virginia-court-of-claims/1983/14-Ct-Cl-470--cap-8755464.md
 CC-83-44	decisions/west-virginia-court-of-claims/1985/15-Ct-Cl-231.md
 CC-83-46	decisions/west-virginia-court-of-claims/1983/15-Ct-Cl-43.md
-CC-83-50; CC-83-51; CC-83-52; CC-83-53; CC-83-54; CC-83-55; CC-83-56; CC-83-57; CC-83-58; CC-83-59; CC-83-60; CC-83-61; CC-83-62; CC-83-108; CC-83-109	decisions/west-virginia-court-of-claims/1983/14-Ct-Cl-402.md
 CC-83-6	decisions/west-virginia-court-of-claims/1983/15-Ct-Cl-35--cap-8745906.md
-CC-83-63; CC-83-64; CC-83-65; CC-83-66; CC-83-67; CC-83-68; CC-83-69; CC-83-70; CC-83-71; CC-83-72; CC-83-73; CC-83-74; CC-83-75; CC-83-76; CC-83-77; CC-83-78; CC-83-79; CC-83-80; CC-83-81; CC-83-82; CC-83-83; CC-83-84; CC-83-85; CC-83-86; CC-83-87; CC-83-88; CC-83-89; CC-83-90; CC-83-91; CC-83-92; CC-83-93; CC-83-94; CC-83-95; CC-83-96; CC-83-97; CC-83-98; CC-83-99; CC-83-100; CC-83-101; CC-83-102; CC-83-103; CC-83-104; CC-83-105; CC-83-110;	decisions/west-virginia-court-of-claims/1983/15-Ct-Cl-60.md
 CC-83-7	decisions/west-virginia-court-of-claims/1983/15-Ct-Cl-29.md
 CC-84-1	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-104.md
 CC-84-10	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-91--cap-8748169.md
@@ -8348,7 +8337,6 @@ CC-84-152	decisions/west-virginia-court-of-claims/1985/15-Ct-Cl-258.md
 CC-84-156	decisions/west-virginia-court-of-claims/1985/15-Ct-Cl-254.md
 CC-84-158	decisions/west-virginia-court-of-claims/1985/15-Ct-Cl-240--cap-8753313.md
 CC-84-16	decisions/west-virginia-court-of-claims/1985/15-Ct-Cl-244--cap-8753408.md
-CC-84-161; CC-84-273; CC-84-280; CC-84-281; CC-84-298; CC-84-327; CC-84-332; CC-85-1; CC-85-2	decisions/west-virginia-court-of-claims/1985/15-Ct-Cl-256.md
 CC-84-162	decisions/west-virginia-court-of-claims/1985/15-Ct-Cl-248.md
 CC-84-163	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-203.md
 CC-84-167	decisions/west-virginia-court-of-claims/1984/15-Ct-Cl-201.md
@@ -8687,7 +8675,6 @@ CC-87-489 & CC-87-724	decisions/west-virginia-court-of-claims/1989/18-Ct-Cl-15.m
 CC-87-50	decisions/west-virginia-court-of-claims/1987/17-Ct-Cl-26.md
 CC-87-506	decisions/west-virginia-court-of-claims/1988/17-Ct-Cl-131.md
 CC-87-513	decisions/west-virginia-court-of-claims/1988/17-Ct-Cl-97.md
-CC-87-521 to CC-87-671; CC-87-679 to CC-87-687; CC-87-727 to CC-87-743; CC-88-6 to CC-88-16; CC-88-22, CC-88-25; CC-88-30 to CC-88-32	decisions/west-virginia-court-of-claims/1988/17-Ct-Cl-87.md
 CC-87-60; CC-88-275; CC-88-305; CC-88-319	decisions/west-virginia-court-of-claims/1989/18-Ct-Cl-32.md
 CC-87-69	decisions/west-virginia-court-of-claims/1988/17-Ct-Cl-161.md
 CC-87-703	decisions/west-virginia-court-of-claims/1988/17-Ct-Cl-157.md
@@ -9747,6 +9734,7 @@ CV-03-526	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-187.md
 CV-03-573	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-191.md
 CV-03-618	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-182.md
 CV-04-109	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-184.md
+CV-04-109	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-186--cap-8246291.md
 CV-04-121	decisions/west-virginia-court-of-claims/2008/27-Ct-Cl-335.md
 CV-04-258	decisions/west-virginia-court-of-claims/2006/26-Ct-Cl-193.md
 CV-04-400	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-189.md
@@ -9828,6 +9816,7 @@ Claim No. 161-S	decisions/west-virginia-court-of-claims/1942/1-Ct-Cl-306.md
 Claim No. 655-S	decisions/west-virginia-court-of-claims/1949/5-Ct-Cl-9.md
 Claim No. 658	decisions/west-virginia-court-of-claims/1949/5-Ct-Cl-30.md
 Claim No. 682	decisions/west-virginia-court-of-claims/1950/5-Ct-Cl-123.md
+Claim No. B-280)	decisions/west-virginia-court-of-claims/1967/7-Ct-Cl-17.md
 Claim No. B-338	decisions/west-virginia-court-of-claims/1967/7-Ct-Cl-10.md
 Claim No. C-1	decisions/west-virginia-court-of-claims/1968/7-Ct-Cl-138.md
 Claim No. C-15	decisions/west-virginia-court-of-claims/1968/7-Ct-Cl-78.md
@@ -10044,7 +10033,6 @@ D-329	decisions/west-virginia-court-of-claims/1971/8-Ct-Cl-223.md
 D-330	decisions/west-virginia-court-of-claims/1971/8-Ct-Cl-250.md
 D-332	decisions/west-virginia-court-of-claims/1972/9-Ct-Cl-183.md
 D-332	decisions/west-virginia-court-of-claims/1975/10-Ct-Cl-177--cap-8747278.md
-D-333; No. D-334; No. D-335; No. D-336; No. D-337; No. D-338; No. D-339; No. D-340; No. D-341; No. D-342; No. D-343; No. D-344; No. D-345; No. D-346; No. D-347	decisions/west-virginia-court-of-claims/1971/8-Ct-Cl-180.md
 D-34	decisions/west-virginia-court-of-claims/1967/7-Ct-Cl-24.md
 D-348	decisions/west-virginia-court-of-claims/1971/8-Ct-Cl-241.md
 D-349	decisions/west-virginia-court-of-claims/1972/9-Ct-Cl-155.md
@@ -10197,6 +10185,7 @@ D-598	decisions/west-virginia-court-of-claims/1973/9-Ct-Cl-250.md
 D-599	decisions/west-virginia-court-of-claims/1973/10-Ct-Cl-51.md
 D-600	decisions/west-virginia-court-of-claims/1973/9-Ct-Cl-277.md
 D-601	decisions/west-virginia-court-of-claims/1973/9-Ct-Cl-278.md
+D-603	decisions/west-virginia-court-of-claims/1974/10-Ct-Cl-58.md
 D-604	decisions/west-virginia-court-of-claims/1973/9-Ct-Cl-279.md
 D-605	decisions/west-virginia-court-of-claims/1973/9-Ct-Cl-254.md
 D-606	decisions/west-virginia-court-of-claims/1973/9-Ct-Cl-255.md
@@ -10251,7 +10240,6 @@ D-684a; No. D-684b; No. D-684c	decisions/west-virginia-court-of-claims/1977/11-C
 D-685	decisions/west-virginia-court-of-claims/1977/11-Ct-Cl-217.md
 D-687	decisions/west-virginia-court-of-claims/1974/10-Ct-Cl-133.md
 D-688	decisions/west-virginia-court-of-claims/1978/12-Ct-Cl-180--cap-8749015.md
-D-690; No. D-691; No. D-692; No. D-693; No. D-694; No. D-725a; No. D-725b; No. D-725c; No. D-725d; No. D-725e; No. D-767; No. D-937	decisions/west-virginia-court-of-claims/1975/11-Ct-Cl-50.md
 D-695	decisions/west-virginia-court-of-claims/1974/10-Ct-Cl-76.md
 D-696	decisions/west-virginia-court-of-claims/1975/11-Ct-Cl-33--cap-8745433.md
 D-698	decisions/west-virginia-court-of-claims/1974/10-Ct-Cl-91.md
@@ -10304,7 +10292,6 @@ D-771	decisions/west-virginia-court-of-claims/1975/11-Ct-Cl-9--cap-8744780.md
 D-772	decisions/west-virginia-court-of-claims/1975/11-Ct-Cl-71--cap-8746430.md
 D-773	decisions/west-virginia-court-of-claims/1981/14-Ct-Cl-42.md
 D-774	decisions/west-virginia-court-of-claims/1975/10-Ct-Cl-190.md
-D-775; No. D-776; No. D-789 A; No. D-789 B; No. D-789 C; No. D-789 D; No. D-789 E; No. D-789 F; No. D-789 G; No. D-789 H; No. D-789 I	decisions/west-virginia-court-of-claims/1975/10-Ct-Cl-166.md
 D-778	decisions/west-virginia-court-of-claims/1974/10-Ct-Cl-144.md
 D-779	decisions/west-virginia-court-of-claims/1974/10-Ct-Cl-102.md
 D-78	decisions/west-virginia-court-of-claims/1968/7-Ct-Cl-163.md
@@ -10321,7 +10308,6 @@ D-795	decisions/west-virginia-court-of-claims/1976/11-Ct-Cl-174.md
 D-796	decisions/west-virginia-court-of-claims/1977/11-Ct-Cl-234.md
 D-797	decisions/west-virginia-court-of-claims/1975/10-Ct-Cl-195.md
 D-798a; No. D-798b	decisions/west-virginia-court-of-claims/1975/11-Ct-Cl-6--cap-8744713.md
-D-799; No. D-800; No. D-801; No. D-802; No. D-803; No. D-804; No. D-805; No. D-806; No. D-807; No. D-808; No. D-811 A; No. D-812; No. D-813; No. D-814; No. D-815; No. D-816 A, B, C, D & F; No. D-817; No. D-818; No. D-819; No. D-820 A; No. D-821; No. D-823; No. D-824; No. D-825; No. D-826; No. D-827; No. D-828; No. D-829; No. D-830; No. D-832; No. D-833; No. D-834; No. D-835; No. D-836; No. D-837; No. D-838; No. D-839; No. D-840; No. D-841 A&B; No. D-844; No. D-845; No. D-846; No. D-847; No. D-848; No. D-849; No. D-850; No. D-854; No. D-855; No. D-856 A&B; No. D-857; No. D-858; No. D-860; No. D-861; No. D-863; No. D-867; No. D-869; No. D-870; No. D-871; No. D-872; No. D-873; No. D-877; No. D-878 A&B; No. D-886; No. D-887; No. D-889; No. D-890; No. D-894; No. D-897	decisions/west-virginia-court-of-claims/1975/10-Ct-Cl-167.md
 D-80	decisions/west-virginia-court-of-claims/1968/7-Ct-Cl-180.md
 D-81	decisions/west-virginia-court-of-claims/1968/7-Ct-Cl-167.md
 D-810	decisions/west-virginia-court-of-claims/1975/11-Ct-Cl-12.md
@@ -10585,6 +10571,7 @@ cap-10239327	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-199.md
 cap-10239425	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-202.md
 cap-10239513	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-206.md
 cap-10239589	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-207.md
+cap-10239653	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-206.md
 cap-10239721	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-209.md
 cap-10239812	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-210.md
 cap-10239901	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-213.md
@@ -10622,13 +10609,25 @@ cap-10242636	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-252--cap-1024
 cap-10242724	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-253.md
 cap-10242816	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-254.md
 cap-10242920	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-255.md
+cap-10243006	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-267.md
 cap-10243183	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-257.md
 cap-10243262	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-258.md
 cap-10243361	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-259.md
 cap-10243452	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-259--cap-10243452.md
+cap-10243543	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-271.md
 cap-10243625	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-261.md
 cap-10243699	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-262.md
+cap-10243797	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-252--cap-10242636.md
+cap-10243912	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-253.md
+cap-10244058	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-254.md
+cap-10244190	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-255.md
 cap-10244272	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-267.md
+cap-10244348	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-257.md
+cap-10244438	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-258.md
+cap-10244536	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-259.md
+cap-10244656	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-259--cap-10243452.md
+cap-10244743	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-261.md
+cap-10244832	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-262.md
 cap-10244972	decisions/west-virginia-court-of-claims/2009/27-Ct-Cl-271.md
 cap-10245067	decisions/west-virginia-court-of-claims/2007/27-Ct-Cl-323.md
 cap-10245175	decisions/west-virginia-court-of-claims/2007/27-Ct-Cl-324.md
@@ -10666,6 +10665,7 @@ cap-11076369	decisions/west-virginia-court-of-claims/1997/22-Ct-Cl-1.md
 cap-11076381	decisions/west-virginia-court-of-claims/1997/22-Ct-Cl-1--cap-11076381.md
 cap-11076391	decisions/west-virginia-court-of-claims/1997/22-Ct-Cl-2.md
 cap-11076395	decisions/west-virginia-court-of-claims/1997/22-Ct-Cl-2--cap-11076395.md
+cap-11076404	decisions/west-virginia-court-of-claims/1997/21-Ct-Cl-187--cap-11653352.md
 cap-11076412	decisions/west-virginia-court-of-claims/1997/22-Ct-Cl-5.md
 cap-11076419	decisions/west-virginia-court-of-claims/1997/22-Ct-Cl-6.md
 cap-11076426	decisions/west-virginia-court-of-claims/1997/22-Ct-Cl-7.md
@@ -12035,6 +12035,7 @@ cap-8246162	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-180.md
 cap-8246181	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-181.md
 cap-8246211	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-182.md
 cap-8246241	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-184.md
+cap-8246291	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-186--cap-8246291.md
 cap-8246318	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-186.md
 cap-8246356	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-187.md
 cap-8246377	decisions/west-virginia-court-of-claims/2005/26-Ct-Cl-189.md
@@ -12127,6 +12128,7 @@ cap-8340040	decisions/west-virginia-court-of-claims/2003/25-Ct-Cl-81.md
 cap-8340098	decisions/west-virginia-court-of-claims/2003/25-Ct-Cl-82.md
 cap-8340161	decisions/west-virginia-court-of-claims/2003/25-Ct-Cl-84.md
 cap-8340209	decisions/west-virginia-court-of-claims/2004/25-Ct-Cl-85.md
+cap-8340246	decisions/west-virginia-court-of-claims/2004/25-Ct-Cl-88.md
 cap-8340314	decisions/west-virginia-court-of-claims/2004/25-Ct-Cl-89.md
 cap-8340357	decisions/west-virginia-court-of-claims/2004/25-Ct-Cl-92.md
 cap-8340403	decisions/west-virginia-court-of-claims/2004/25-Ct-Cl-96.md
@@ -15270,8 +15272,11 @@ cap-9055695	decisions/west-virginia-court-of-claims/2002/24-Ct-Cl-405.md
 cap-9055731	decisions/west-virginia-court-of-claims/2002/24-Ct-Cl-408.md
 cap-9055773	decisions/west-virginia-court-of-claims/2002/24-Ct-Cl-411.md
 cap-9055813	decisions/west-virginia-court-of-claims/2001/24-Ct-Cl-412.md
+cap-9055857	decisions/west-virginia-court-of-claims/2001/23-Ct-Cl-391.md
 cap-9055875	decisions/west-virginia-court-of-claims/2001/24-Ct-Cl-419.md
 cap-9055904	decisions/west-virginia-court-of-claims/2001/24-Ct-Cl-421.md
+cap-9055929	decisions/west-virginia-court-of-claims/2002/23-Ct-Cl-383.md
+cap-9055949	decisions/west-virginia-court-of-claims/2002/23-Ct-Cl-393.md
 cap-9055981	decisions/west-virginia-court-of-claims/2001/24-Ct-Cl-426.md
 cap-9056013	decisions/west-virginia-court-of-claims/2001/24-Ct-Cl-429.md
 cap-9056043	decisions/west-virginia-court-of-claims/2002/24-Ct-Cl-430.md
@@ -15462,6 +15467,7 @@ cap-9302609	decisions/west-virginia-court-of-claims/1986/16-Ct-Cl-95.md
 cap-9302637	decisions/west-virginia-court-of-claims/1986/16-Ct-Cl-96.md
 cap-9302658	decisions/west-virginia-court-of-claims/2000/23-Ct-Cl-135.md
 cap-9302671	decisions/west-virginia-court-of-claims/1986/16-Ct-Cl-97.md
+cap-9302705	decisions/west-virginia-court-of-claims/2000/23-Ct-Cl-135.md
 cap-9302712	decisions/west-virginia-court-of-claims/1986/16-Ct-Cl-98.md
 cap-9302741	decisions/west-virginia-court-of-claims/2000/23-Ct-Cl-145.md
 cap-9302754	decisions/west-virginia-court-of-claims/1986/16-Ct-Cl-99.md
@@ -15623,10 +15629,11 @@ cap-9306571	decisions/west-virginia-court-of-claims/2001/23-Ct-Cl-332.md
 cap-9306580	decisions/west-virginia-court-of-claims/2000/23-Ct-Cl-382.md
 cap-9306607	decisions/west-virginia-court-of-claims/2002/23-Ct-Cl-383.md
 cap-9306638	decisions/west-virginia-court-of-claims/2001/23-Ct-Cl-384.md
+cap-9306672	decisions/west-virginia-court-of-claims/2001/24-Ct-Cl-419.md
 cap-9306704	decisions/west-virginia-court-of-claims/2001/23-Ct-Cl-391.md
 cap-9306738	decisions/west-virginia-court-of-claims/2002/23-Ct-Cl-393.md
 cap-9306776	decisions/west-virginia-court-of-claims/2001/23-Ct-Cl-394.md
 cap-9306819	decisions/west-virginia-court-of-claims/2001/23-Ct-Cl-395.md
+cap-9306863	decisions/west-virginia-court-of-claims/2002/24-Ct-Cl-430.md
 cap-9306895	decisions/west-virginia-court-of-claims/2002/23-Ct-Cl-398.md
 cap-9306934	decisions/west-virginia-court-of-claims/2002/23-Ct-Cl-400.md
-—422-S	decisions/west-virginia-court-of-claims/1945/3-Ct-Cl-47.md
