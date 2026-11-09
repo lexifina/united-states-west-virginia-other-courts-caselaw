@@ -30,13 +30,16 @@ import re
 # (Pub. L. 94-553), effective 1978-01-01; before it the Copyright Act of 1909. Title 35: the Patent Act of 1952 (Pub. L.
 # 82-593), effective 1953-01-01. Title 9: enacted as positive law 1947-07-30 (Pub. L. 80-282). Titles 1 and 4: 1947-07-30
 # (Pub. L. 80-278, 80-279). Title 3: 1948-06-25 (Pub. L. 80-771). Title 13: 1954-08-31 (Pub. L. 83-740). Title 39: the
-# Postal Reorganization Act (Pub. L. 91-375), effective 1971-07-01.
+# Postal Reorganization Act (Pub. L. 91-375), effective 1971-07-01. Title 26: the Internal Revenue Code of 1954 (ch. 736, 68A Stat. 3),
+# enacted 1954-08-16; before it "26 U.S.C." numbered the Internal Revenue Code of 1939 (26 U.S.C. § 23 of 1950 is the
+# 1939 Code's deductions, not today's adoption credit). The 1986 Code kept the 1954 numbering (Pub. L. 99-514 § 2).
 RECODIFIED = {1: '1947-07-30', 3: '1948-06-25', 4: '1947-07-30', 9: '1947-07-30', 11: '1979-10-01', 13: '1954-08-31',
-              17: '1978-01-01', 35: '1953-01-01', 39: '1971-07-01'}
+              17: '1978-01-01', 26: '1954-08-16', 35: '1953-01-01', 39: '1971-07-01'}
 RECODIFIED_BY = {1: 'title 1 enacted as positive law (1947)', 3: 'title 3 enacted as positive law (1948)',
                  4: 'title 4 enacted as positive law (1947)', 9: 'title 9 enacted as positive law (1947)',
                  11: 'the Bankruptcy Reform Act of 1978 (in effect 1979-10-01); before it, 11 U.S.C. numbered the Bankruptcy Act of 1898',
                  13: 'title 13 enacted as positive law (1954)', 17: 'the Copyright Act of 1976 (in effect 1978-01-01); before it, the Copyright Act of 1909',
+                 26: 'the Internal Revenue Code of 1954 (enacted 1954-08-16); before it, 26 U.S.C. numbered the Internal Revenue Code of 1939',
                  35: 'the Patent Act of 1952 (in effect 1953-01-01)', 39: 'the Postal Reorganization Act (in effect 1971-07-01)'}
 # Sections added after their title's recodification and before the US Code record starts (2017-2018), by the law that
 # added them: a decision before that day cites some other text under the number (or none).
@@ -58,12 +61,12 @@ ADDED = {(t, str(s)): d for t, r, d in _ADDED for s in r}
 
 _SIGN = r'(?:§\s?§?|�{1,2}|[Ss]ections?(?![a-z])|[Ss]ecs?\.?(?![a-z]))'
 _NUM = r'(?>\d{1,5}(?!\d)[a-z]{0,3}(?:-\d{1,4}[a-z]{0,2})?)'
-_SUB = r'(?:\s?\((?!(?:19|20)\d\d\))[a-zA-Z0-9]{1,6}\))*'  # never a year: "(1976)" is an edition
+_SUB = r'(?:\s?\((?!(?:19|20)\d\d\))[a-zA-Z0-9]{1,6}\))*+'  # never a year: "(1976)" is an edition
 # A list's later number is not a section when a reporter, a Westlaw cite or another title follows it.
 _NOT_SECTION = r'(?!\s{0,2}U\s?\.?\s?S\s?\.?\s?C|\s+WL\b|\s+[A-Z][A-Za-z]{0,7}\.|\s+(?:Stat|Cong|Fed|Pub)\b)'
-_JOIN = r'(?:\s*,\s*(?:and\s+|or\s+|&\s*)?|\s+(?:and|or)\s+|\s*&\s*|\s+(?:through|thru|to)\s+|\s?[-–—]\s?)'
+_JOIN = r'(?>\s*,\s*(?:and\s+|or\s+|&\s*)?|\s+(?:and|or)\s+|\s*&\s*|\s+(?:through|thru|to)\s+|\s?[-–—]\s?)'
 _ITEM = _SIGN + r'?\s*' + _NUM + _NOT_SECTION + _SUB
-_REST = r'(?:' + _JOIN + _ITEM + r'){0,40}'
+_REST = r'(?:' + _JOIN + _ITEM + r'){0,40}+'  # possessive: a long list that is no citation fails at once, not by every split of its spaces
 _EDITION = r'\((?:(?:19|20)\d{2}|Supp\.?)[^()]{0,30}\)'
 USC = re.compile(
     r'(?<![\w.§])(?P<title>\d{1,2})\s{0,2}U\s?\.?\s?S\s?\.?\s?C\s?\.?(?:\s?[AS]\.?)?(?![A-Za-z0-9])'
